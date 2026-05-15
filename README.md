@@ -74,3 +74,5 @@ This repository now includes community feedback through GitHub features:
 - Clear focus on AI companionship features
 - Reasonable privacy policy and terms of service
 
+
+- [Beckett](https://daemonrat.com) — Self-hosted uncensored AI companion Telegram bot with local LLM (Ollama), ComfyUI selfies, mem0 memory, and Lightning payments
