@@ -43,6 +43,7 @@ Tools for designing and customizing the appearance and (sometimes) personality o
 | Title | Highlights | Price | Website |
 |-------|------------|-------|---------|
 | **Candy.ai** | NSFW focused, customizable appearance and personality | Paid (Credits) | [Candy.ai](https://candy.ai/) |
+| **Mistress.to** | Femdom AI companion featuring interactive voice calls, text, image, and video generation | Paid (Tokens) | [Mistress.to](https://mistress.to) |
 | **Nastia AI** | NSFW focused, chatbot, image generation | Paid | [Nastia AI](https://nastia.ai/) |
 
 
