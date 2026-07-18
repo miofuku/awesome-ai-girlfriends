@@ -9,7 +9,7 @@
 
 ## 🚀 Quick Navigation
 
-🤖 [AI Companions (General)](#-ai-companions-general) | 🎨 [AI Characters](#-ai-characters) | 🔞 [NSFW AI (N18+)](#-nsfw-ai-n18)
+🤖 [AI Companions (General)](#-ai-companions-general) | 🎨 [AI Characters](#-ai-characters) | 🔞 [NSFW AI (N18+)](#-nsfw-ai-n18) | 📚 [Reviews & Rankings](#-reviews--rankings)
 
 
 ## 💞 AI Companions (General)
@@ -46,6 +46,15 @@ Tools for designing and customizing the appearance and (sometimes) personality o
 | **Mistress.to** | Femdom AI companion featuring interactive voice calls, text, image, and video generation | Paid (Tokens) | [Mistress.to](https://mistress.to) |
 | **Nastia AI** | NSFW focused, chatbot, image generation | Paid | [Nastia AI](https://nastia.ai/) |
 
+
+---
+
+## 📚 Reviews & Rankings
+Independent review and comparison sites that test AI companion platforms and rank them by features, pricing, and content policies. Useful for discovery before committing to a product above.
+
+| Title | Highlights | Website |
+|-------|------------|---------|
+| **Top AI Chat Girls** | Independent reviews and side-by-side rankings of AI girlfriend and companion apps, comparing features, memory, pricing, and NSFW policies. | [Top AI Chat Girls](https://topaichatgirls.org) |
 
 ---
 
