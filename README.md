@@ -24,6 +24,7 @@ Best AI Girlfriend Products and Platforms. This list focuses on products explici
 | **Kissable** | Persistent memory, together photos, video generation, community scenario catalog with creator tools (lorebook, NPCs), emotional voice, unlimited messages | Free trial / Paid | [Kissable](https://kissable.app) | iOS + Web. Focus on memory and shared visual experiences. |
 | **Character.AI** | Large library of characters created by users and the platform. | Free / Paid | [Character.AI](https://beta.character.ai/) | Primarily text-based. Character quality varies greatly. |
 | **Paradot** | Focuses on building a long-term relationship, learning user preferences. | Free / Paid | [Paradot](https://www.paradot.ai/) | Emphasizes a sense of growth and evolution in the AI companion. |
+| **Ouba** | Interactive AI romance where you play the protagonist: you make branching choices and the AI writes each next turn, with persistent memory of your relationship and past decisions. | Free / Paid | [Ouba](https://ouba.art) | Web. Reader-as-protagonist interactive fiction plus AI roleplay chat; free tier to start. |
 
 
 ---
