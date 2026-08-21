@@ -25,6 +25,7 @@ Best AI Girlfriend Products and Platforms. This list focuses on products explici
 | **Character.AI** | Large library of characters created by users and the platform. | Free / Paid | [Character.AI](https://beta.character.ai/) | Primarily text-based. Character quality varies greatly. |
 | **Paradot** | Focuses on building a long-term relationship, learning user preferences. | Free / Paid | [Paradot](https://www.paradot.ai/) | Emphasizes a sense of growth and evolution in the AI companion. |
 | **Ouba** | Interactive AI romance where you play the protagonist: you make branching choices and the AI writes each next turn, with persistent memory of your relationship and past decisions. | Free / Paid | [Ouba](https://ouba.art) | Web. Reader-as-protagonist interactive fiction plus AI roleplay chat; free tier to start. |
+| **Local Waifu** | Runs entirely on your own computer: bundled local LLM, on-device image generation for selfies, voice, and image understanding. Persistent long-term memory, seven-stage relationship progression, 8-axis personality builder, multiple characters. | Free trial / Paid | [Local Waifu](https://localwaifu.com) | macOS + Windows desktop app. No account and no telemetry; keeps working with outbound connections blocked. One-time purchase, 7-day free trial. |
 
 
 ---
