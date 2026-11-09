@@ -59,6 +59,7 @@ Independent review and comparison sites that test AI companion platforms and ran
 | Title | Highlights | Website |
 |-------|------------|---------|
 | **Top AI Chat Girls** | Independent reviews and side-by-side rankings of AI girlfriend and companion apps, comparing features, memory, pricing, and NSFW policies. | [Top AI Chat Girls](https://topaichatgirls.org) |
+| **Spicy Lab** | Independent NSFW (18+) AI image, video, and chat model rankings with fixed intensity levels, side-by-side test runs, blind quality scoring, and a published methodology; not a generator (data updated 2026-11-07: 160 models, 3,854 runs). | [Spicy Lab](https://spicyapi.app) |
 
 ---
 
