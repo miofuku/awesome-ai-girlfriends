@@ -51,6 +51,7 @@ Tools for designing and customizing the appearance and (sometimes) personality o
 | **HoneyChat.bot** | 100+ anime & realistic characters, long-term memory, voice messages, AI photos & short videos; web + Telegram, no sign-up | Free / Paid | [HoneyChat.bot](https://honeychat.bot/en/) |
 | **Mistress.to** | Femdom AI companion featuring interactive voice calls, text, image, and video generation | Paid (Tokens) | [Mistress.to](https://mistress.to) |
 | **Nastia AI** | NSFW focused, chatbot, image generation | Paid | [Nastia AI](https://nastia.ai/) |
+| **Trystique** | Interactive stories where you play your own role with one or several fictional AI characters; character image generation; 18+, optional NSFW roleplay | Free preview / Paid | [Trystique](https://trystique.ai/) |
 
 
 ---
